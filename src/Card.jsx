@@ -6,7 +6,7 @@ export default function card(){
   return (
     <div>
             <div className="card">
-              <img src="public/illustration-article.svg" alt="" />
+              <img src="/illustration-article.svg" alt="" />
                 <Inner />
             </div>
     </div>
