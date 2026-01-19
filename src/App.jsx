@@ -1,6 +1,6 @@
 import React from 'react'
 import "./App.css"
-import Card from "./card"
+import Card from "./Card"
 
 export default function App(){
   return(
